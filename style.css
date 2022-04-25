@@ -1,0 +1,57 @@
+.travel_mainDiv{
+    
+    border:1px solid grey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel_mainDiv img{
+    
+    width:100%;
+    
+}
+.travel_mainDiv hr{
+    
+    width:230px;
+    
+}
+.travel_mainDiv h5,.travel_mainDiv p{
+    
+    margin-left:20px;
+    
+}
+.environment_li{
+    
+    margin-top: 19px;
+    
+}
+.environment_li h5{
+    
+   border-bottom: 1px solid white;
+   padding: 8px;
+
+}
+.environment_li img{
+    
+    border-radius: 12px;
+}
+.environment_li p{
+    
+    margin-top: 10px;
+    
+}
+
+#contact iframe{
+    
+    width: 100%;
+}
+
+#contact_1 h3{
+    
+    display: inline;
+    
+}
+.contact_1 a{
+    
+ text-shadow: none;   
+}
